@@ -1,0 +1,5 @@
+# OpenCV build directories
+opencv4.5-tmp/
+
+# Build directories
+build/
